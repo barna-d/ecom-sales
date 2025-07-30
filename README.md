@@ -66,7 +66,7 @@ The tables were linked in Power BI's data model using the common `Order ID` colu
 
 ## 📸 Screenshots / Demos
 
-![Dashboard Preview](Snapshot of the Dashboard.png)
+![Dashboard Preview](https://github.com/barna-d/ecom-sales/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 ---
 
